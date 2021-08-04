@@ -16,3 +16,4 @@ sendgrid==6.6.0
 
 pytest
 Flask
+gunicorn #Heroku wants this to run out webapp
